@@ -1,6 +1,7 @@
 
 #### Welcome Hunter, This guide will show you how to log into The Hunter's Dream.
 First you must have a BBport launcher and game instance running. You should be able to make a character and immediately die. After this check with your launcher again. 
+Note: Some forks of may not have compatibility with summons. This server is not a Seamless co-op server. 
 ##### Step 1)
 In the online tab of your launcher change to pool to The Hunter's Dream 
 ![](Images/TheHuntersDream-guide/0-Change-Pool.png)
