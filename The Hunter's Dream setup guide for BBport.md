@@ -16,7 +16,7 @@ If the browser was not opened simply go to https://thehuntersdream.com/link
 
 ![](Images/TheHuntersDream-guide/3-auto-opened-page.png)
 ##### Step 5)
-The put the Code into the Code slot. No need to worry it is already copied to clipboard. Then press continue. Press accept to all the buttons. 
+Then put the Code into the Code slot. No need to worry it is already copied to clipboard. Then press continue. Press accept to all the buttons. 
 ![](Images/TheHuntersDream-guide/4-putting-code-in-codeslot.png)
 ##### Step 6)
 Press play and once in-game login. If this fails check: The Hunter's dream website if the servers are online, your vpn, and/or firewall. 
