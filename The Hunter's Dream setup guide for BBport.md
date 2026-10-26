@@ -10,7 +10,6 @@ Click the Sign in Button
 ##### Step 3)
 read the instructions carefully.![2-deadinside-instructions.png](https://github.com/Erika-wby/Guides/blob/main/2-deadinside-instructions.png)
 ##### Step 4)
-##### Step 4)
 ~~Ignore step 3~~
 Navigate to the auto-opened tab in your browser and click the Login with Discord and link your discord to The hunter's dream. Click the Authorize request.
 If the browser was not opened simply go to https://thehuntersdream.com/link
