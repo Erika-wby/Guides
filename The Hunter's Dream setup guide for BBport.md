@@ -24,3 +24,4 @@ Then put the Code into the Code slot. No need to worry it is already copied to c
 Press play and once in-game login. If this fails check: The Hunter's dream website if the servers are online, your vpn, and/or firewall. 
 ![](Images/TheHuntersDream-guide/8-Login-game.png)
 
+If it still does not work feel free to ask about it in the bbport discord.
